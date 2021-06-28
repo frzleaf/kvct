@@ -1,0 +1,28 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "" )
+	call SetPlayerName(Player(12)," -load1 B024eoOjLI8ZapDiSjJAqVeAeDoErFA0FNDugughg054MEBT1WfxBkorBF06H4reQvm85UeN8Pup7AUxqp3DSslk1xkDE1")
+//" )
+	call Preload( "" )
+	call SetPlayerName(Player(13)," -load2 Gm1k61R6ZG8yQD98mzX9SCmkWNC2G61W84QUnYxtSsRJ3Vn2hI5qGL1P0bXT8")
+//" )
+	call Preload( "" )
+	call SetPlayerName(Player(14)," -load3 DS4H8vh72ftQH1X2Mw8rcVkhWYmyHRDAYzi135deBGnI4dYAnu7lJXlKjjonfjzekJ")
+//" )
+	call Preload( "" )
+	call SetPlayerName(Player(15)," -load4 DjqPg5cRdVnjZPkaRBhsn3Zq1g2EjcEzJ7Z6yG7wt5sSEHD7BMzGQRGZCis6M98r")
+//" )
+	call Preload( "" )
+	call SetPlayerName(Player(16)," -load5 UJdlFavxDlXN1gNdnQn3Yhtb72P67RI2U30NDPCTOZV0fPA5xTZutuqrGzRa2To")
+//" )
+	call Preload( "" )
+	call SetPlayerName(Player(17)," -load6 G8ncTQIWEIWtyWJDWk007BPOSRDuh6LFpp7iiDCwVS5c4KtiVIGnEBoVrAJYZ7hWK")
+//" )
+	call Preload( "Nguoi choi: Cheat.KVCT" )
+	call Preload( "Thoi Gian Choi: 11" )
+	call Preload( "KEY PASS: 8275" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
