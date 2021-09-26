@@ -1,0 +1,28 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "" )
+	call SetPlayerName(Player(12)," -load1 BTZO3EybgjlSI50JareGXoYi9tFVcc9GP6EjhyJPrAqNHUhZ9ql9N4MfgWepPIVczujUyuDMziMI0g5Kske")
+//" )
+	call Preload( "" )
+	call SetPlayerName(Player(13)," -load2 F4J1gx7e7vdR9Bxiqr8fbfTIjjg3NKPFWzHv0zpGgWiPtXCBIA5KZCpiXkExbjNDaQk5")
+//" )
+	call Preload( "" )
+	call SetPlayerName(Player(14)," -load3 TLMTHUNBw3yYpRRZTztAs7euHt3Gu1e6JqP5sUzAAaaOD17jwghVZmGTwTMVapPG")
+//" )
+	call Preload( "" )
+	call SetPlayerName(Player(15)," -load4 QqPnmkCfgRkNsfTVNR8xks12MZwmEndtGoJDCqSpnl0lUem7UKljAPds2zYU02gGqpk0VJeKZ3HVZzWwDaVoo9bI")
+//" )
+	call Preload( "" )
+	call SetPlayerName(Player(16)," -load5 rIEr9cRopZgVziSnfCehn8A4chQUgIeLYWMfJZseohpgbYn6dfXCvqe0llHfP9VxF5")
+//" )
+	call Preload( "" )
+	call SetPlayerName(Player(17)," -load6 Bb4P6QBlCtgRZtfdnaMb4aVUWeWr6DPJtcnOuNhYcpyy4bEYg7mTZlr08Vl7IHh6BM")
+//" )
+	call Preload( "Nguoi choi: Chai65" )
+	call Preload( "Thoi Gian Choi: 6656" )
+	call Preload( "KEY PASS: 2428" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

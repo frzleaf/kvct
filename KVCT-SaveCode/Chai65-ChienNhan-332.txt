@@ -1,0 +1,21 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "=== Thong Tin Save ===" )
+	call Preload( "Nguoi choi: Chai65" )
+	call Preload( "-load1 Cr9E4U7rZhImh5KxemRwg8qrtdBv2Oc0R5HQKDWGNXIoTAVQFvjVyvkxSrhufGOpUh7ek0ooONpiRYodJJMrQ4Gky4AHGF7" )
+	call Preload( "-load2 DBnEng9IDSK8WdnGyq9XGl1eS44wyfZaBZlbFAfkrUGIoRoEsyBcD2RLQnIBja5TPGZ" )
+	call Preload( "-load3 K9ahkS2Du7Ra3sE6MheZnmpOyDc2wm0r2it4kqyyH8K3wYZuE0xtiylDeWkusTTzi9TBSQiWOiLRV" )
+	call Preload( "-load4 7msQTiTYqFCTDjiikDwF42BNMPdfuhF4fSJxiqbKn9EspiEczLxNBbtJ6434cEDoyQdak4EOdMTKVxcAVAdlk9BUeWklrznHpJSs" )
+	call Preload( "-load5 E9SHVl6JXRmtBAw4YSUlS6bMPgo434nQhKrEUehomRSlxCWZPjbnavbOR4Hh2BjVfC1gCGBv" )
+	call Preload( "-load6 FMjjyP5XCHQX4cil12Va2RBbfWrDeRSW43DqCRqXn5JoaI6Ao3Tk9LmEpHwB4XZxW61zHvCpJuCQAhDEyxMtCe8ibtHQwC" )
+	call Preload( "-load7 ZeoNT9xAuOzVmHdPhmmlQreIJJ0TMSBRIKSlIeBf7oyY3ecl03JSWa5WqCTCDNiXLEkTZBvFtyaFOyUk8C5dE" )
+	call Preload( "Thoi Gian Choi: 15561 phut" )
+	call Preload( "Nhan Vat: -ChienNhan- - Cap do: 200" )
+	call Preload( "Trung sinh: 9 - Hoa canh: 0" )
+	call Preload( "Chuyen Doi He Phai: Off" )
+	call Preload( "KEY PASS: 9263" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
